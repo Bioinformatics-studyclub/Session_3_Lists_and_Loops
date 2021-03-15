@@ -1,6 +1,6 @@
 # Session_3_Lists_and_Loops
 
-In this study group we read through the appropriate chapter **(Chapter 4)** in the **Python for Biologist** book.
+For this session we read through the appropriate chapter **(Chapter 4)** in the **Python for Biologist** book.
 
 We then congregate to discuss how we fared in the exercises at the end of the chapter.
 
