@@ -6,7 +6,7 @@ We then congregate to discuss how we fared in the exercises at the end of the ch
 
 Thereafter we go through some additional Theory and Exercises if time permits.
 
-**Launch** the Interactive Jupyter notebook **HERE ->:** (this takes a while to load in your browser, so please be patient)
+**Launch** the Interactive Jupyter notebook **HERE ->:** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_2_Reading-and-Writing-Files/main))
 
 In order for the interactive notebook above to run all the blocks without errors, you need to make sure that the files that are used, are stored in the appropriate directories. 
 So save a copy of the **dna.txt**, **genomic_dna.txt** and the **input.txt** files on your personal Desktop. 
@@ -16,4 +16,4 @@ Find the link to the book from which we do most of our exercises [HERE](https://
 
 [Link to the files used for the exercises](https://pythonforbiologists.com/s/python_for_biologists_exercises.zip)
 
-We upload any video interactions to our YouTube channel Bioinformatics Study Club (**NEED to fill this out**)
+We upload any video interactions to our [YouTube channel Bioinformatics Study Club] (https://www.youtube.com/playlist?list=PLdtMu2g-VS-wU0W-E19GuwJcaOnqrb-14)
