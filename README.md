@@ -6,7 +6,7 @@ We then congregate to discuss how we fared in the exercises at the end of the ch
 
 Thereafter we go through some additional Theory and Exercises if time permits.
 
-**Launch** the Interactive Jupyter notebook [HERE ->]
+**Launch** the Interactive Jupyter notebook [HERE ->]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_3_Lists_and_Loops/main))
 
 In order for the interactive notebook above to run all the blocks without errors, you need to make sure that the files that are used, are stored in the appropriate directories. 
 So save a copy of the **dna.txt**, **genomic_dna.txt** and the **input.txt** files on your personal Desktop. 
