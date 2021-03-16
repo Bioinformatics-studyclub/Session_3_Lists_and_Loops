@@ -16,4 +16,4 @@ Find the link to the book from which we do most of our exercises [HERE](https://
 
 [Link to the files used for the exercises](https://pythonforbiologists.com/s/python_for_biologists_exercises.zip)
 
-We upload any video interactions to our [YouTube channel Bioinformatics Study Club] (https://www.youtube.com/playlist?list=PLdtMu2g-VS-wU0W-E19GuwJcaOnqrb-14)
+We upload any video interactions to our [YouTube channel Bioinformatics Study Club](https://www.youtube.com/playlist?list=PLdtMu2g-VS-wU0W-E19GuwJcaOnqrb-14)
