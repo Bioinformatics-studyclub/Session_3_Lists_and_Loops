@@ -8,8 +8,8 @@ Thereafter we went through some additional Theory and Exercises.
 
 **Launch** the Interactive Jupyter notebook HERE -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_3_Lists_and_Loops/main)
 
-
-INSTRUCTIONs:
+<br><br>
+INSTRUCTIONS:
 
 In order for the interactive notebook above to run all the blocks without errors:
 1. you need to make sure that the files that are used, are stored in the appropriate directories. 
