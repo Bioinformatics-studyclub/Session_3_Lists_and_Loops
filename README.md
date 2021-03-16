@@ -1,15 +1,15 @@
 # Session_3_Lists_and_Loops
 
-For this session we read through the appropriate chapter **(Chapter 4)** in the **Python for Biologist** book.
+For this session we read through the appropriate chapter **(Chapter 4: Lists and Loops)** in the **Python for Biologist** book.
 
-We then congregate to discuss how we fared in the exercises at the end of the chapter.
+We then met online to discuss how we fared in the exercises at the end of the chapter.
 
-Thereafter we go through some additional Theory and Exercises if time permits.
+Thereafter we went through some additional Theory and Exercises.
 
 **Launch** the Interactive Jupyter notebook HERE -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_3_Lists_and_Loops/main)
 
 
-INSTRUCTION:
+INSTRUCTIONs:
 
 In order for the interactive notebook above to run all the blocks without errors:
 1. you need to make sure that the files that are used, are stored in the appropriate directories. 
