@@ -12,7 +12,7 @@ In order for the interactive notebook above to run all the blocks without errors
 So save a copy of the **dna.txt**, **genomic_dna.txt** and the **input.txt** files on your personal Desktop. 
 Also change the file path to your OWN file path. E.g. /home/Cathy_Jones/Desktop, in every block where this file is supposed to run.
 
-Find the link to the book from which we do most of our exercises HERE ->(https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf)
+Find the link to the book from which we do most of our exercises [HERE ->](https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf)
 
 [Link to the files used for the exercises](https://pythonforbiologists.com/s/python_for_biologists_exercises.zip)
 
